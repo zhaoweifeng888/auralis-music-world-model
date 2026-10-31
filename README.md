@@ -24,3 +24,10 @@ Auralis is a personal research project exploring JEPA over internal representati
 The code accepts pre-extracted one-dimensional audio tokens. Audio token extraction, ACE-Step integration, evaluation and audio generation are not implemented; the prototype has not yet been run in a PyTorch environment.
 
 建议数据集及其限制见技术报告。请分别核对代码、模型、数据及底层作品的许可。Auralis 名称已被其他音乐和音频项目使用，尚未完成全面同名或商标检索。
+
+
+## 许可 / License
+
+本项目仅允许非商业研究和教育用途；商业使用需事先获得作者书面授权。详见 [LICENSE](LICENSE)。授权联系：149199879@qq.com。
+
+Non-commercial research and educational use only; commercial use requires prior written permission. See [LICENSE](LICENSE). Contact: 149199879@qq.com.
