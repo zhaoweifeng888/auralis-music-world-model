@@ -91,3 +91,9 @@ This is an untrained research proposal with generic prototype training code. The
 3. [SongBloom: Coherent Song Generation via Interleaved Autoregressive Sketching and Diffusion Refinement](https://papers.nips.cc/paper_files/paper/2025/file/3107ddd4209e5f93c0371425763041a3-Paper-Conference.pdf).
 4. [Music-JEPA: Learning a World Model of Sound from Action](https://arxiv.org/abs/2607.22000).
 5. [AudioLM: a Language Modeling Approach to Audio Generation](https://arxiv.org/abs/2209.03143).
+
+## 许可 / License
+
+Copyright (c) 2026 Weifeng Zhao (赵伟峰). Original reports, architecture diagrams and code are licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). Noncommercial sharing and adaptation are permitted under the license, with attribution, indication of changes and retention of license information when sharing. For separate written commercial permission, contact 149199879@qq.com. Third-party code, models, datasets and musical works remain subject to their own terms.
+
+[Full license](LICENSE).

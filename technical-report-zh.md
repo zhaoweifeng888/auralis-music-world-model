@@ -99,3 +99,9 @@ z_pred = gφ(z_ctx, 目标时长或位置)
 3. [SongBloom](https://papers.nips.cc/paper_files/paper/2025/file/3107ddd4209e5f93c0371425763041a3-Paper-Conference.pdf)。
 4. [Music-JEPA](https://arxiv.org/abs/2607.22000)。
 5. [AudioLM](https://arxiv.org/abs/2209.03143)。
+
+## 许可 / License
+
+本项目的原创技术报告、架构图和代码由赵伟峰（Weifeng Zhao）以 [CC BY-NC 4.0（署名—非商业性使用）](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans) 许可发布。允许按协议进行非商业分享和改编，分享时须署名、注明修改并保留许可信息。商业使用请联系作者另行取得书面授权：149199879@qq.com。第三方代码、模型、数据及音乐作品遵循各自许可。
+
+完整协议见 [LICENSE](LICENSE)。

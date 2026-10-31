@@ -25,9 +25,10 @@ The code accepts pre-extracted one-dimensional audio tokens. Audio token extract
 
 建议数据集及其限制见技术报告。请分别核对代码、模型、数据及底层作品的许可。Auralis 名称已被其他音乐和音频项目使用，尚未完成全面同名或商标检索。
 
-
 ## 许可 / License
 
-本项目仅允许非商业研究和教育用途；商业使用需事先获得作者书面授权。详见 [LICENSE](LICENSE)。授权联系：149199879@qq.com。
+本项目的原创技术报告、架构图和代码由赵伟峰（Weifeng Zhao）以 [CC BY-NC 4.0（署名—非商业性使用）](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans) 许可发布。允许按协议进行非商业分享和改编，分享时须署名、注明修改并保留许可信息。商业使用请联系作者另行取得书面授权：149199879@qq.com。第三方代码、模型、数据及音乐作品遵循各自许可。
 
-Non-commercial research and educational use only; commercial use requires prior written permission. See [LICENSE](LICENSE). Contact: 149199879@qq.com.
+Copyright (c) 2026 Weifeng Zhao (赵伟峰). Original reports, architecture diagrams and code are licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). Noncommercial sharing and adaptation are permitted under the license, with attribution, indication of changes and retention of license information when sharing. For separate written commercial permission, contact 149199879@qq.com. Third-party code, models, datasets and musical works remain subject to their own terms.
+
+完整协议见 [LICENSE](LICENSE)。
